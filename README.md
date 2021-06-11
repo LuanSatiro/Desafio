@@ -21,6 +21,6 @@ Crud
  
  Amigo secreto
  
-<img src=" https://user-images.githubusercontent.com/42500368/121613063-16862e00-ca32-11eb-934b-46f942371d2d.gif" width="900" height="700" />
+<img src="https://user-images.githubusercontent.com/42500368/121613063-16862e00-ca32-11eb-934b-46f942371d2d.gif" width="900" height="700" />
  
 
