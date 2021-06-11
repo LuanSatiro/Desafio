@@ -87,7 +87,7 @@ router.post('/email', async (req, res) => {
           // Preview only available when sending through an Ethereal account
           console.log('Preview URL: %s', nodemailer.getTestMessageUrl(info));
           
-          return nodemailer.getTestMessageUrl(info)
+          
       });
     });
    
